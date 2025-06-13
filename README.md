@@ -2,6 +2,8 @@
 
 Our project uses machine learning to detect and classify human emotions from speech audio using MFCC feature extraction, scikit-learn classifiers, and datasets like RAVDESS. 
 
+Download files and edit file path with your own via the ipynb file.*
+
 ---
 
 ## 📚 Our Citations
