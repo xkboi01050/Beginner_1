@@ -1,4 +1,4 @@
-# 🎧 Emotion-Aware Speech Recognition System
+# 🎧 ConnectUS, Our Emotion-Aware Speech Recognition System
 
 This project uses machine learning to detect and classify human emotions from speech audio using MFCC feature extraction, scikit-learn classifiers, and datasets like RAVDESS.
 
